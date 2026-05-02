@@ -102,7 +102,7 @@ Two datasets:
 ### Gen-Z Protest Countries
 - Twitter-enhanced model performs better across all metrics
 - Lower error values indicate improved prediction
-
+![Chart](figure/comparison_table.png)
 👉 Key Insight:
 Social media improves prediction **only in specific contexts**
 
