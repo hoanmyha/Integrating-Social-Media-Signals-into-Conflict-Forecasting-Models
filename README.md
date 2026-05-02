@@ -29,7 +29,7 @@ Can social media data (Twitter) improve the prediction of conflict and unrest be
 - Based on the Civil Unrest on Twitter (CUT) dataset
 - ~4,300 annotated tweets (2014–2019)
 - Uses ~700+ keywords related to unrest (e.g., protest, strike, police)
-
+![Chart](figure/unrest_by_year.png)
 ---
 
 ## Data Processing
@@ -103,6 +103,7 @@ Two datasets:
 - Twitter-enhanced model performs better across all metrics
 - Lower error values indicate improved prediction
 ![Chart](figure/comparison_table.png)
+![Chart](figure/bar_chart.png)
 👉 Key Insight:
 Social media improves prediction **only in specific contexts**
 
